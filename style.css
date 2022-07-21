@@ -1206,6 +1206,9 @@ body {
   list-style: none;
   margin-left: 16px;
   box-sizing: border-box;
+  .repair__item:hover {
+  opacity: 50%;
+  }
 }
 @media (min-width: 767px) {
   .repair__item {
